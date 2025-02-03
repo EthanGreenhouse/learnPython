@@ -1,6 +1,5 @@
 # Python Learning 1
-# Ethan Greenhouse
-# 2/2/2025
+# Ethan Greenhouse 2/2/2025
 
 class PacketGen:
     def __init__(self):
